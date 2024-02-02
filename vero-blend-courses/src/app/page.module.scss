@@ -1,0 +1,14 @@
+.contenido {
+  margin: 10px;
+  padding: 0px 0px 0px 0px;
+  width: calc(100% - 20px);
+  height: calc(100vh - 20px);
+  color: black;
+  display: flex;
+  background-color: #ffffff3c;
+  font-weight: bold;
+  font-family: Arial, Helvetica, sans-serif;
+  border-radius: 20px;
+  display: grid;
+  grid-template-columns: 1fr 7fr;
+}
